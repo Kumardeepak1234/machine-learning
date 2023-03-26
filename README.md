@@ -1,2 +1,2 @@
 # machine-learning
-# this repository my ml learning data 
+# this repository provide my ml learning data 
